@@ -5,7 +5,7 @@ function Contact(){
     return(
     <div>
         <h2>Contact Me:</h2>
-        <p>For any query fill out below contact form or Email me at [kalebbolack14@gmail.com] </p>
+        <p>For any query fill out below contact form or Email me at kalebbolack14@gmail.com </p>
         <ContactForm />
     </div>
     )
